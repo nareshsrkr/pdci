@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>ICDP.UI</id>
+    <version>1.0.0</version>
+    <authors>ambastvi</authors>
+    <owners>vijay.ambasta@corteva.com</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>User interface for Insect Control Discovery Platform</description>
+    <copyright>Copyright 2017</copyright>
+    <tags>ICDP</tags>
+  </metadata>
+  <files>
+    <file src="dist\**\*.*" target="dist" />
+  </files>
+</package>
